@@ -56,7 +56,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: Categories of Government Jobs Available on iFastJobs.com
       color: text-dark
       styles:
         self:
