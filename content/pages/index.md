@@ -27,7 +27,7 @@ sections:
         type: Button
       - label: See Tutorials
         altText: ''
-        url: /
+        url: 'https://www.ifastjobs.com'
         showIcon: true
         icon: arrowRight
         iconPosition: right
