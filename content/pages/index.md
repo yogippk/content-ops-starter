@@ -67,7 +67,7 @@ sections:
       iFastJobs.com covers all major sectors, including
     items:
       - type: FeaturedItem
-        title: 500k
+        title: Banking Jobs
         subtitle: Numbers Done
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
