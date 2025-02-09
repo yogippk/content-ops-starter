@@ -62,7 +62,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Government jobs in India are classified into various categories.
+      iFastJobs.com covers all major sectors, including
     items:
       - type: FeaturedItem
         title: 500k
