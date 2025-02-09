@@ -9,12 +9,12 @@ sections:
       type: TitleBlock
     subtitle: go-to source for government job seekers
     text: >
-      iFastJobs.com is a dedicated platform that provides the latest updates on
-      government job opportunities across various departments in India. The
-      website is designed to help job seekers find the right opportunities
-      quickly and efficiently. Whether you are looking for jobs in banking,
-      railways, SSC, UPSC, state government jobs, or PSU jobs, iFastJobs.com
-      ensures you never miss an update.
+      i[FastJobs](https://www.ifastjobs.com).com is a dedicated platform that
+      provides the latest updates on government job opportunities across various
+      departments in India. The website is designed to help job seekers find the
+      right opportunities quickly and efficiently. Whether you are looking for
+      jobs in banking, railways, SSC, UPSC, state government jobs, or PSU jobs,
+      iFastJobs.com ensures you never miss an update.
     actions:
       - label: Get started
         altText: ''
