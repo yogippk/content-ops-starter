@@ -25,7 +25,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See Govt Jobs
         altText: ''
         url: 'https://www.ifastjobs.com'
         showIcon: true
